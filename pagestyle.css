@@ -31,11 +31,17 @@ h1, h2 {
 }
 
 a:link {
-    color: darkgreen;
+    color: #00FFEE;
 }
 
 a:visited {
-    color:aquamarine;
+    color: #00FFEE;
+}
+
+
+a:active {
+    color: black;
+    font-weight: bold;
 }
 
 a {
@@ -43,8 +49,8 @@ a {
 }
 
 .sizing {
-    width: 25%;
-    height: 25%;
+    width: 22%;
+    height: 22%;
 }
 
 header, footer {
